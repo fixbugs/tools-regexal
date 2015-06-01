@@ -3,3 +3,5 @@
 
 
 #ptyhon dev version on 2.6.7
+
+print "test ok"
